@@ -5,5 +5,7 @@
   "users.form.submit": "Speichern",
   "body.paragraph": "Ceci est un paragraphe.",
   "hello": "Bonjour!!!",
-  "Yes": "Oui"
+  "Yes": "Oui",
+  "app":
+    {"title": "My Appy Apperson"}
 }
