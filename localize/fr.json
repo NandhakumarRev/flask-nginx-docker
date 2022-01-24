@@ -1,8 +1,7 @@
-
-
 {
   "hello": "Bonjour!",
   "welcome": "Bienvenue sur mon appli!",
   "title": "Titre",
+  "users.form.submit": "Speichern",
   "body.paragraph": "Ceci est un paragraphe."
 }
