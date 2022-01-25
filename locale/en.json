@@ -1,0 +1,12 @@
+{
+    "hello": "Hello",
+    "welcome": "welcome",
+    "title": "Title",
+    "body.paragraph": "This is a paragraph.",
+    "users.form.submit": "Save on computer",
+    "Yes": "",
+    "app": {
+        "title": ""
+    },
+    "Action": "Action"
+}
