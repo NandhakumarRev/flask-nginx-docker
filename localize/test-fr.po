@@ -19,3 +19,5 @@ msgstr "Bonjour!"
 #: actionlog/templates/object_action_list.html:8
 msgid "Action"
 msgstr ""
+
+
